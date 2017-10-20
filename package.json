@@ -1,0 +1,19 @@
+{
+  "name": "angweb",
+  "version": "1.0.0",
+  "description": "fly me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnaddme/angweb.git"
+  },
+  "author": "imJohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnaddme/angweb/issues"
+  },
+  "homepage": "https://github.com/johnaddme/angweb#readme"
+}
